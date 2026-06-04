@@ -1,10 +1,6 @@
-# DecodeLabs Data Analytics Internship
+# E-Commerce Data Analysis
 
-Repository containing all project submissions for the Data Analytics Internship at DecodeLabs.
-
----
-
-## Projects
+## Phases
 
 ### Project 1 — Data Cleaning and Preparation
 
